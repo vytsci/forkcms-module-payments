@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>Payments</name>
+    <version>1.0.0</version>
+    <requirements>
+        <minimum_version>3.9.4</minimum_version>
+    </requirements>
+    <description>
+        <![CDATA[
+			Payments
+		]]>
+    </description>
+    <authors>
+        <author>
+            <name><![CDATA[Vytenis Ščiukas]]></name>
+            <url><![CDATA[http://www.vytsci.lt]]></url>
+        </author>
+    </authors>
+</module>
